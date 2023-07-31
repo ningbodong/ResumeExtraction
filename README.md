@@ -35,8 +35,8 @@
 
 ### 打赏
 
-> 如果您觉得对你有帮助，欢迎给我打赏。
+> 如果您觉得对您有帮助，欢迎给我打赏。
 
 
-<img src="doc/screenshot/wxpay.png" width="400" />
+<img src="wxpay.jpg" width="400" />
 
