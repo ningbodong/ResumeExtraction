@@ -32,3 +32,11 @@
 2.动用你的手指，直接点击鼠标run呗！！！
 
 3.python3 ResumeExtraction.py
+
+### 打赏
+
+> 如果您觉得对你有帮助，欢迎给我打赏。
+
+
+<img src="doc/screenshot/wxpay.png" width="400" />
+
